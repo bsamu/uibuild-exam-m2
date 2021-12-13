@@ -173,6 +173,10 @@ button {
     color: #F7E4D4;
     border-radius: 40px;
     letter-spacing: 0.2em;
+    
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
 
 @media screen and(max-width: 520px) {
